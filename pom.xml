@@ -2,11 +2,16 @@
   xsi:schemaLocation="http://Vinod.apache.org/POM/4.0.0 http://Vinod.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>in.ashokit</groupId>
-  <artifactId>01-Maven-App</artifactId>
+  <artifactId>Vinod-App</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
+<<<<<<< HEAD
   <name>01-Maven-App</name>
   <url>http://Vinod.apache.org</url>
+=======
+  <name>Vinod-App</name>
+  <url>http://maven.apache.org</url>
+>>>>>>> 76ab821817ba953fff26cf8cca8435d578d67b34
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
